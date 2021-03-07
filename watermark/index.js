@@ -1,0 +1,1 @@
+document.write("<div style='font-family: Arial, Helvetica, sans-serif; position: fixed; margin: 0px auto; width: 200px; border: 1px solid black; padding: 10px; right: 0px; border-radius: 5px;'>Created by <i>Isaac Boorman</i><br><img src='https://www.isaboo.co.uk/logolight.png' width='100px'/><br>go to <a href='https://www.isaboo.co.uk'>isaboo.co.uk</a></div>");
